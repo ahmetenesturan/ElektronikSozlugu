@@ -1,0 +1,1 @@
+scp -r index.html about.html style.css letters/ turana19@ssh.itu.edu.tr:/itu/users/turana19/web.itu.edu.tr/public_html 
